@@ -1,0 +1,25 @@
+/* Empty. Add your own CSS if you like */
+@import url(http://fonts.googleapis.com/css?family=Roboto:300);
+ .item .iCookName{
+    color: #FF6C5C;
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Roboto';
+}
+.iCookSubtext{
+    color: #FF6C5C;
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 2em;
+    font-family: 'Roboto';
+}
+.item h3{
+
+    color: #FF6C5C;
+}
+.item h2 {
+    color: #FF6C5C;
+}
+.searchhomedescription {
+    text-align: center;
+}
